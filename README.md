@@ -62,7 +62,9 @@ If you would like to contact me, you can find my LinkedIn profile right here:
 
 <div align="center">
   
-  The End
-  
   <img src="https://media.giphy.com/media/lD76yTC5zxZPG/giphy.gif" width="250px"/>
+
+  <br>
+  <br>
+  The End
 </div>

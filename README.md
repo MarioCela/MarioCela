@@ -10,23 +10,20 @@
 
 <div align="center">
   <br>
-  Hey! Welcome to my profile!
-  
-  Let me tell you something about me...
-  <img src="https://media.giphy.com/media/fbSR0cD5tisRXeOdPa/giphy.gif" width="75px"/>
+  Ayoo! Welcome to my profile!
 </div>
 
 ---
 
 ### About me
 
-<img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="25px"/> I am attending the Computer Science and Engineering course at the Politecnico di Milano University.
 
-<img src="https://media.giphy.com/media/9C8le8j0GMFqEv73C5/giphy.gif" width="25px"/> In particular, I am following the Software Engineering for Complex System track, which focuses on the study of how Distributed Systems work and how they can be implemented.
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px"/> Specific areas of interest that I study are related to: software design, software technologies (middlewares), approaches and practices for software development.
+<img src="https://media.giphy.com/media/dBrXAuiJQpBTgFhHFH/giphy.gif" width="25px"/> I graduated in Computer Science and Engineering from Politecnico di Milano. In particular, I followed the Software Engineering for Complex System track, which focuses on the study of how Distributed Systems work and how they can be implemented and managed.
 
-<img src="https://media.giphy.com/media/OBIBNR9ATt3HdpcmLC/giphy.gif" width="25px"/> Considering my university journey (which is still going on), I am happy to say I learned a lot of stuff, starting from the engineering basics and then working with different programming languages, depending on the context and the requirements of the problem. I learned so much, but still, there's a lot to learn. That's the mood.
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px"/> Specific areas of interest that I study are related to: system and infrastructure design, software design, coding.
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZwNmM1ZDM2ZjNrZzBzejBzbDhiMm1tN3R3OGUxMXN0c21yY2xoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c31WXGK1jLQBy/giphy.gif" width="25px"/> Now, I am working as a Cloud Consultant at Cloud9 Reply, working on projects that involve technologies such as Microsoft Azure, Ansible, Jenkins, and others.
 
 ---
 
@@ -35,18 +32,13 @@
 <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="25px"/> Here's a list with the main programming languages and tools I used for my projects:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="md" alt="md" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JB" alt="JB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
 </div>
 
 ---
